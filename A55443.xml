@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes down-fall, at Abergaveny, or A true and perfect relation of his being carried through the fair ... also, how he was burnt ... : together with a perfect account of the inhumane murder commited by one John Kirby ...</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55443</idno><idno type="EEBO-CITATION">12061307</idno>
+  <idno type="VID">53238</idno>
+  <idno type="EEBO-PROQUEST">2248522619</idno>
+  
+            <idno type="STC">Wing P2931</idno>
+            <idno type="STC">ESTC R22562</idno>
+            <idno type="OCLC">12061307</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes down-fall, at Abergaveny, or A true and perfect relation of his being carried through the fair ... also, how he was burnt ... : together with a perfect account of the inhumane murder commited by one John Kirby ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.C. and N.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Kirby, John.</term>
+               <term type="topical_term">Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53238:1"/>
+            <p>
+               <hi>The Popes Down-fall,</hi> AT ABERGAVENY, OR A true and perfect Relation of his being carried through the Fair in a solemn Procession with very great Ceremony.</p>
+            <p>ALSO, How he was Burnt, with several Popish Books and Relicks lately taken out of St. <hi>Xaverius</hi>'s Colledge near that place.</p>
+            <p>TOGETHER WITH A perfect Account of the Inhumane Murder committed by one <hi>John Kirby</hi> a Papist upon the person of his own Father, being a Pro<g ref="char:EOLhyphen"/>testant, immediately after the Ceremony was over.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. C.</hi> and <hi>N. L.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53238:2"/>
+            <pb n="1" facs="tcp:53238:2"/>
+            <head>The <hi>Popes Down-fall</hi> at <hi>Abergave<g ref="char:EOLhyphen"/>ny;</hi> Where being carried through the Fair in a solemn <hi>Procession</hi> with great Ceremony, how he was burnt to ashes, <hi>&amp;c.</hi>
+            </head>
+            <p>IT is recorded of <hi>Diogenes,</hi> when he saw a Wanton vaunting in a Lions skin, he call'd to him that he should forbear to make Virtues garment blush; And indeed Vir<g ref="char:EOLhyphen"/>tue and Religion are never more ashamed then when she has a vile servant; and where is there a greater devourer of the true Flock then the Sheep invailed in the Lyons skin? When the servant of servants in his Scarlet Robes exer<g ref="char:EOLhyphen"/>ciseth his Tyranny over the Canopies of Kings and Emperors; and under pretence of Peace and Religion, gives Indulgences for Treason, Tyranny and Murder. Surely the Vices of <hi>Alexander</hi> the sixth did mightily discover the Errors of the Papal Infallibility, even in those dayes: Till then Princes were afraid of Bulls and Excommunications; but it was so usual with him to Blaspheme and Curse, that it made
+<pb n="2" facs="tcp:53238:3"/>them slighted ever since his Vices impublikt them; but never did the universal Tyrant find more opposition then in this happy Island, where every one unanimously took up Arms for the Truth, and in opposition to all his Dam<g ref="char:EOLhyphen"/>nable Innovations, stood a Champion for the Faith. Where hath the fatal Tyranny found more opposition then in <hi>England?</hi> who by standing stedfast to the Faith, defy his Strata<g ref="char:EOLhyphen"/>gems, and making his Vices publick to the World, redeem his Captives, and bring dayly into the Bosom of the true Protestant Catho<g ref="char:EOLhyphen"/>lick Church. In this the Custom of <hi>London</hi> is to be much commended, that is, the Annual Solemnity of <hi>Gunpowder Treason</hi> with such a<g ref="char:EOLhyphen"/>curate Ceremony, commits his Diabolical Sanctity to the Flames. The Custom of <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> and the <hi>Ʋnited Provinces</hi> is no less com<g ref="char:EOLhyphen"/>mendable in this point; who though the Ma<g ref="char:EOLhyphen"/>lefactor escape the hand of Justice, hang him up in Effigie; the disgrace is equal to his Crime, and as terrible as death it self: Which laudible Custom our Ancient Gallant <hi>Brittains</hi> have so bravely immitated at <hi>Abergavenny</hi> in the succeeding story.</p>
+            <pb n="3" facs="tcp:53238:3"/>
+            <p>First marched a little Gentleman of about 50 years old, being about 4 foot high, with a small Brass Blunderbuss, as Master of the Ceremonies; some say unto the Pope, some say the Devil; after him in good order mar<g ref="char:EOLhyphen"/>ched twenty of his Holiness's Guard with Pikes; next to them went two Cardinals with all their Formalities, each carrying a Banner with a large Cross, the one displaying <hi>Blasphemy,</hi> the other <hi>Treason.</hi>
+            </p>
+            <p>Then two Jesuits with two Banners, in the one was depainted the <hi>Gunpowder Treason,</hi> on the other the <hi>Murder</hi> of Sir <hi>Edmondberry God<g ref="char:EOLhyphen"/>frey:</hi> After them followed two Benedictins with two Banners, in the one <hi>Cruelty</hi> was re<g ref="char:EOLhyphen"/>presented, in the other <hi>Assassination:</hi> Then followed two Jacobins with two Banners, the one demonstrating the <hi>Burning</hi> of <hi>London,</hi> the other <hi>Rebellion:</hi> Afterwards two <hi>Fransiscans</hi> with two Banners also, in the one <hi>Superstition,</hi> in the other <hi>Idolatry:</hi> Then followed two Lusty Sow-Gelders with very large and shrill Flagel<g ref="char:EOLhyphen"/>lets: Then marched his Holiness in very great State mounted in a Porphry Chair richly ador<g ref="char:EOLhyphen"/>ned with Relicks, Pictures, Beads, Bells and
+<pb n="4" facs="tcp:53238:4"/>other Superstitious Emblems; with a very Copious Antipendulum, Stoles, Manacles, Scapulaes; The Chair was carried a soft so<g ref="char:EOLhyphen"/>lemn pace round all the Streets of <hi>Abergavenny.</hi> (where by the way the people prayed the Pope may never come there again, for it quite spoi<g ref="char:EOLhyphen"/>led the Fair:) Close to his Holy Person marched ten Lusty Fellows with Musquets and Blunderbusses; at every Holy House, and at some of the countenancers Houses, his Holiness gave a Benediction and Bow; and the Multi<g ref="char:EOLhyphen"/>tude that was the greatest that ever was seen at that Town, gave a joyful Shout, ever as he moved his Holy Head: Then Proclamation was made by his Holiness's Officers, that <hi>Par<g ref="char:EOLhyphen"/>dons</hi> and <hi>Indulgences,</hi> and other Holy Trash were at that Fair to be sold in very great quan<g ref="char:EOLhyphen"/>tities and at very cheap rates, and the Prices put lower and lower, till at last they were proffered for four pence a Dozen, but no body would buy any. At last he was brought to the fatal place of Execution, where the Bakers of the Town had provided a stately Pile of Faggots and Bavins for his Holiness; and be<g ref="char:EOLhyphen"/>ing mounted on the top of it, all the Procession
+<pb n="5" facs="tcp:53238:4"/>kneeling about the Fire and mournfully wa<g ref="char:EOLhyphen"/>ving their Flags, which the multitude toar from their hands; and stripping them of their Princely Ornaments, threw them all into the Fire, which with abundance of Books and other Trinckets belonging to St <hi>Xaverius</hi> Col<g ref="char:EOLhyphen"/>ledge, were burn'd, to the joy of all the Spectators: And this is to be noted, there was no Fray nor Mischief done during the Action.</p>
+            <p>This Comical Act that afforded so much pleasure and contentment to the Spectators ended with a Tragical Epilogue: When one <hi>John Kirby</hi> after the Ceremony was over, had a mind to refresh himself with a Supper, which he liked much better then the former sight; being a Papist, and consequently delighted more in Blood of a Protestant, though it were of his own Father, then the downfall of the Pope. The old Gentleman sitting at Table with a Shoulder of Mutton, accompanied only with his Son and Daughter, was pleased to divertise himself and his few Guests with the former Solemnity. The young Proselyte ha<g ref="char:EOLhyphen"/>ving the Pope in his belly, had a greater Sto<g ref="char:EOLhyphen"/>mach for Blood and Revenge then for Victuals,
+<pb n="6" facs="tcp:53238:5"/>and long'd more for a cut of his Fathers Throat then the Mutton. The Innocent old man insisting on the pleasant Relation, and in<g ref="char:EOLhyphen"/>troducing now and then the damnable Errors and practices of the Pope, to render them more odious to his Son, thinking thereby to regain him to the Protestant Faith: He more obsti<g ref="char:EOLhyphen"/>nate then dutiful, and fuller of revenge then obedience, stood up for the holy Martyr, and took up the quarrel for the Universal Father against his Natural Parent, which he carried on with Vigour and Animosity, that it incensed the old man to throw the Brown Loaf at his Head, meaning (good man) no more then a Fatherly Chastisement, and to bring his Son un<g ref="char:EOLhyphen"/>der the subjection of a Natural obedience. But the Son instead of submitting quietly to the Fatherly Correction, snatcht up the Dish, threw it at his Fathers Head, and therewith dasht out his Brains; she crying out her Father was kill'd, he answered no, his holy Father was alive, though the Pope was burnt; whereupon he was immediatly apprehended and commit<g ref="char:EOLhyphen"/>ted into the hand of Justice, there to receive the due reward of his inhumane and unnatural Assassination.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
